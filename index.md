@@ -10,9 +10,8 @@
 
 Visiting Professor<br>HDSI, University of California San Diego<br>ubellur@ucsd.edu
 
-Hi! 👋 I'm Umesh, a visiting faculty member in [Data Science](https://datascience.ucsd.edu/) at the University of California San Diego.
-This year, I'm teaching a class on [the data science capstone](https://dsc-capstone.org/2024-25).
-I am also a Professor at [IIT Bombay](https://www.cse.iitb.ac.in/people/faculty) in the Dept. of Computer Science and Engineering. 
+Hi! 👋 I'm Umesh, a visiting faculty member in [Data Science](https://datascience.ucsd.edu/) at the University of California San Diego. This year, I'm teaching a class on [the data science capstone](https://dsc-capstone.org/2024-25).<br>
+I am also a Professor at [IIT Bombay](https://www.cse.iitb.ac.in/people/faculty) in the Dept. of Computer Science and Engineering.<br>
 [LinkedIn Profile](https://www.linkedin.com/in/umesh-bellur-7a77254/)
 
 </div>
