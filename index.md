@@ -4,8 +4,8 @@ title: Home
 
 <div style="width: 100%;" markdown="1">
 
-<div style="width: 42%; float: left;">
-  <img src="ub-highres-small.jpg" width="100%">
+<div style="width: 20%; float: left;">
+<img src="ub-highres-small.jpg" width="100%">
 </div>
 
 <div style="margin-left: 46%; white-space: normal;" markdown="1"> 
@@ -23,8 +23,7 @@ This year, I'm teaching a class on [the data science capstone](https://dsc-capst
 
 <a name='scholarship'></a>
 
-## Papers
-- Look at my [DBLP Page](https://dblp.org/pid/54/4697.html)
-
-
+### Papers
+Look at my [DBLP Page](https://dblp.org/pid/54/4697.html)
+  
 </div>
