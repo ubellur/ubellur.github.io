@@ -1,0 +1,9 @@
+# Basic settings
+title: My GitHub Pages Site
+description: This is my awesome site
+url: "https://ubellur.github.io"
+baseurl: "" # Leave this empty for a user site (username.github.io)
+
+# Build settings
+markdown: kramdown
+theme: minima
