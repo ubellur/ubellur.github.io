@@ -1,4 +1,3 @@
-
 <div style="width: 100%;" markdown="1">
 
 <div style="width: 20%; float: left;">
@@ -7,7 +6,7 @@
 
 <div style="margin-left: 46%; white-space: normal;" markdown="1"> 
 
-## Umesh Bellur
+## Professor Umesh Bellur
 
 Visiting Professor<br>HDSI, University of California San Diego<br>ubellur@ucsd.edu
 
