@@ -1,6 +1,3 @@
----
-title: Home
----
 
 <div style="width: 100%;" markdown="1">
 
