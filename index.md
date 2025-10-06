@@ -8,7 +8,7 @@
 
 ## Professor Umesh Bellur
 
-Visiting Professor<br>HDSI, University of California San Diego<br>ubellur@ucsd.edu<br>[LinkedIn Profile](https://www.linkedin.com/in/umesh-bellur-7a77254/)
+Professor<br>HDSI, University of California San Diego<br>ubellur@ucsd.edu<br>[LinkedIn Profile](https://www.linkedin.com/in/umesh-bellur-7a77254/)
 
 Hi! 👋 I'm Umesh, a faculty member in [Data Science](https://datascience.ucsd.edu/) at the University of California San Diego. This year, I'm teaching a class on [the data science capstone](https://dsc-capstone.org/2024-25).<br>
 I recently retired as Professor at [IIT Bombay](https://www.cse.iitb.ac.in/people/faculty) in the Dept. of Computer Science and Engineering.<br>
