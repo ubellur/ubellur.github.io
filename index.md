@@ -34,7 +34,7 @@ Here is a list of my granted US Patents:
 - 11,423,016	Method for scaling computation in blockchain by delaying transaction execution
 - 7,962,590	Automated discovery of a multitier compute infrastructure
 - 7,912,873	Topology mapping of a multitier compute infrastructure
-- 7,337,184	Topology mapping of a multitier compute infrastructure
+- 7,337,184	Topology mapping of a multitier compute infrastructure (continuation of 7,337,184)
 - 7,281,046	Application program interface for automating high speed network access ordering and provisioning processes
 - 7,243,306	Service descriptor for a multitier compute infrastructure
 - 7,210,143	Deployment of applications in a multitier compute infrastructure
