@@ -14,6 +14,8 @@ Hi! 👋 I'm Umesh, a faculty member in [Data Science](https://datascience.ucsd.
 I recently retired as Professor at [IIT Bombay](https://www.cse.iitb.ac.in/people/faculty) in the Dept. of Computer Science and Engineering.<br>
 [GFF](https://docs.google.com/presentation/d/1fnOCMu-vTVDxr5_s5fg88_UF38Wx0iGR/edit?usp=sharing&ouid=114444121721560359155&rtpof=true&sd=true) <br>
 
+I am also a technical advisor to [Arrcus Inc](https://arrcus.com), a networking startup out of the Bay Area that enables fast AI at the network through smart routing technologies. 
+
 </div>
 
 ---
